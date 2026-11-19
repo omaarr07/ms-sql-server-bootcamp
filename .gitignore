@@ -1,0 +1,14 @@
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.dacpac
+*.suo
+*.user
+*.ssmssln
+.vs/
+*.env
+Thumbs.db
+desktop.ini
+.DS_Store
